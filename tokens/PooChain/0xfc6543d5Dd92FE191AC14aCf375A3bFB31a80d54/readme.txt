@@ -1,0 +1,4 @@
+0xfc6543d5Dd92FE191AC14aCf375A3bFB31a80d54
+
+PooZilla (POOZI)
+9 Decimals

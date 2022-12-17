@@ -1,0 +1,4 @@
+0x766CB57c0A1168522561b94bD815d87e5d5511E7
+SafePoo (SafePoo)
+9 decimals
+chainId 20202021

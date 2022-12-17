@@ -1,0 +1,4 @@
+0xa918938B470eFA023705581123c3B7e4Db62c53D
+9 decimals
+Pooch (Pooch)
+20202021 chainId

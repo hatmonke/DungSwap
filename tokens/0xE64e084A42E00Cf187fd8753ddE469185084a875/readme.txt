@@ -1,5 +1,5 @@
 0xE64e084A42E00Cf187fd8753ddE469185084a875
-18 decimals
+9 decimals
 chainid 20202021
 No Soldier Left Behind 
 NSLB
